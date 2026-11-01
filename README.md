@@ -24,7 +24,7 @@ Proyek final bootcamp Data Analyst with SQL & Python: membersihkan data listing 
 | Data preparation | Python (pandas) | `01_airbnb_data_preparation.ipynb`, [cleaning log](docs/cleaning_log.md) |
 | EDA dan analisis pertanyaan bisnis | Python (scipy, matplotlib, seaborn) | `02_airbnb_eda.ipynb`, `docs/img/` |
 | Dashboard | Looker Studio | [Buka dashboard](https://datastudio.google.com/reporting/0ee48c18-5d5f-439f-877f-b9a6ce4eb1d8) |
-| Presentasi | Google Slides | [`docs/presentasi.pdf`](docs/presentasi.pdf) |
+| Presentation Deck | Google Slides | [`docs/presentation.pdf`](docs/presentation.pdf) |
 
 ## Temuan utama
 
@@ -81,7 +81,7 @@ Dashboard Looker Studio merangkum KPI listing, sebaran harga, demand per wilayah
 
 - `01_airbnb_data_preparation.ipynb`: mengenali data, membersihkan, menangani nilai tidak valid, membuat kolom baru
 - `02_airbnb_eda.ipynb`: EDA, korelasi, dan jawaban pertanyaan bisnis
-- `docs/`: cleaning log, tabel validitas dan outlier, presentasi, dan gambar
+- `docs/`: cleaning log, tabel validitas dan outlier, deck presentation, dan gambar
 - `requirements.txt`: dependensi Python
 
 ## Cara menjalankan
