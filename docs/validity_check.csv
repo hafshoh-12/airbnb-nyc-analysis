@@ -1,0 +1,8 @@
+Aturan validitas,n tidak valid,% tidak valid,Status
+price > 0,0,0.0,✅
+minimum_nights minimal 1,13,0.01,❌
+availability_365 antara 0 dan 365,3185,3.12,❌
+service_fee >= 0 dan lebih kecil dari price,13,0.01,❌
+review_rate_number antara 1 dan 5,0,0.0,✅
+construction_year tidak di masa depan,0,0.0,✅
+"koordinat bukan 0,0",0,0.0,✅
