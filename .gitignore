@@ -1,0 +1,6 @@
+Airbnb_Open_Data.csv
+airbnb_cleaned_for_dashboard.csv
+portfolio_airbnb.ipynb
+.ipynb_checkpoints/
+__pycache__/
+*.pkl
